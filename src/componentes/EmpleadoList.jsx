@@ -1,5 +1,5 @@
 import { ListGroup } from "react-bootstrap";
-import EmpleadoRenglon from "./empleadoRenglon";
+import EmpleadoRenglon from "./EmpleadoRenglon";
 
 const EmpleadoList = () => {
   const empleados = [

@@ -1,5 +1,5 @@
 import { ListGroup } from "react-bootstrap";
-import EmpleadoAvatar from "./empleadoAvatar";
+import EmpleadoAvatar from "./EmpleadoAvatar";
 
 
 const EmpleadoRenglon = ({fullName, title, department, pic}) => {
