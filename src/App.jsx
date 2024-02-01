@@ -1,14 +1,14 @@
-
-import './App.css'
+import { Container } from "react-bootstrap";
+import EmpleadoList from "./componentes/EmpleadoList";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      
+      <Container className="main my-3">
+        <EmpleadoList></EmpleadoList>
+      </Container>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
