@@ -1,0 +1,17 @@
+
+  img {
+    width: 70px;
+    height: 70px;
+  }
+  
+  @media (max-width: 768px) {
+    .listaEmpleados{
+      width: 100%;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .listaEmpleados {
+      width: 50%;
+    }
+  }
