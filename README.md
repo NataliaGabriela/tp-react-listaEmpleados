@@ -1,10 +1,8 @@
 TP REACT ROLLINGCODE
 
-Ejercicios de introducción a React: Paletas de Colores
+Ejercicios de introducción a React: Lista de Empleados
 
-Consigna: Crear un proyecto de react que muestre un formulario con un input y un button que permite guardar un color en el localstorage
-
-Demo Deply del proyecto 
+Demo Deply del proyecto https://tp-react-listaempleados.netlify.app/
 
 Librerias 📚 Bootstrap v5.3.2
 
